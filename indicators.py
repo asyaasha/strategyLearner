@@ -7,8 +7,7 @@ that operate on dataframes. The "main" code in
 indicators.py should generate the charts that illustrate 
 your indicators in the report.
 Student Name: Asiya Gizatulina (replace with your name) 			  		 			     			  	   		   	  			  	
-GT User ID: agizatulina3 (replace with your User ID) 			  		 			     			  	   		   	  			  	
-GT ID: 903387961 (replace with your GT ID) 	
+	
 """
 
 import pandas as pd 			  		 			     			  	   		   	  			  	
